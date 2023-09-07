@@ -25,7 +25,7 @@
 
 <h1> WATCHS</h1>
 
-<img src="./Media/products/casiog.png" align="center" width="500"/>
+<img src="./Media/products/casiog.png" align="center" width="90"/>
 <br>
 
 <h2>CASIO G-SHOCK</h2>
