@@ -1,6 +1,7 @@
 #### E-NOVA STORE
 ![logo](https://i.imgur.com/DxK05Dq.jpeg)
 <br>
+### These Items Are Availbale In our Store
 * Shoes
 * Watch 
 * Gadgets
@@ -9,7 +10,7 @@
 * Jbl
 <br>
 
-### These Items Are Availbale In our Store
+
 <br>
 <hr>
 
@@ -26,6 +27,7 @@
 <h1> WATCHS</h1>
 
 <h2>CASIO G-SHOCK</h2>
+<h3>RF.CODE : R0001</h3>
 <br>
 <img src="./Media/products/casiog.png" align="center" width="250" height="300" />
 
@@ -43,7 +45,7 @@
 <p></p>
 <br>
 <p >* 💙click add to cart for more deatils</p>
-<a herf='https://wa.me/916238768108?text=ENOVA🤍+CASIO+GSHOCK+0001' target="_blank"><img alt='watch' src='https://img.shields.io/badge/-ADD_TO_CART-yellow?style=for-the-badge&logo=flipkart&logoColor=white'/></a>
+<a herf='https://wa.me/916238768108?text=ENOVA🤍+CASIO+GSHOCK+R0001' target="_blank"><img alt='watch' src='https://img.shields.io/badge/-ADD_TO_CART-yellow?style=for-the-badge&logo=flipkart&logoColor=white'/></a>
 
 <br>
 <hr>
