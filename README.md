@@ -45,7 +45,7 @@
 <p></p>
 <br>
 <p >* 💙click add to cart for more deatils</p>
-<a herf='https://wa.me/916238768108?text=ENOVA🤍_CASIO_GSHOCK_R0001' target="_blank"><img alt='watch' src='https://img.shields.io/badge/-ADD_TO_CART-yellow?style=for-the-badge&logo=flipkart&logoColor=white'/></a>
+<a herf='https://wa.me/916238768108?text=ENOVA🤍_CASIO_GSHOCK_R0001' target="_blank"><img alt='watch' src='https://img.shields.io/badge/-ADD_TO_CART-yellow?style=for-the-badge&logo=whatsapp&logoColor=white'/></a>
 
 <br>
 <hr>
