@@ -41,3 +41,6 @@
 🔹 Rs:499/-
 <br>
 <a herf='https://wa.me/916238768108?text=ENOVA🤍+CASIO+GSHOCK+0001' target="_blank"><img alt='watch' src='https://img.shields.io/badge/-ADD_TO_CART-yellow?style=for-the-badge&logo=addkart&logoColor=white'/></a>
+
+<br>
+<hr>
