@@ -45,7 +45,7 @@
 <p></p>
 <br>
 <p >* 💙click add to cart for more deatils</p>
-<a href='https://wa.me/916238768108?text=ENOVA_STORE_WANT_HELP🌠' target="_blank"><img alt='AMEEN' src='https://img.shields.io/badge/-AMEEN_ENOVA-green?style=for-the-badge&logo=whatsapp&logoColor=white'/></a>
+<a href='https://wa.me/916238768108?text=🤍ENOVA+ADD+CART+R0001' target="_blank"><img alt='AMEEN' src='https://img.shields.io/badge/-ADD_TO_CART-yellow?style=for-the-badge&logo=flipkart&logoColor=white'/></a>
 
 <br>
 <hr>
