@@ -25,10 +25,10 @@
 
 <h1> WATCHS</h1>
 
-<img src="./Media/products/casiog.png" align="center" width="90"/>
-<br>
-
 <h2>CASIO G-SHOCK</h2>
+<br>
+<img src="./Media/products/casiog.png" align="center" width="159" height="159" />
+
 <br>
 🔹Heavy Quality
 <br>
