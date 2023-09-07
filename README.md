@@ -27,7 +27,7 @@
 
 <h2>CASIO G-SHOCK</h2>
 <br>
-<img src="./Media/products/casiog.png" align="center" width="159" height="159" />
+<img src="./Media/products/casiog.png" align="center" width="200" height="160" />
 
 <br>
 🔹Heavy Quality
