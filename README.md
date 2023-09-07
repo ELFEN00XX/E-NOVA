@@ -27,7 +27,7 @@
 
 <h2>CASIO G-SHOCK</h2>
 <br>
-<img src="./Media/products/casiog.png" align="center" width="200" height="160" />
+<img src="./Media/products/casiog.png" align="center" width="250" height="300" />
 
 <br>
 🔹Heavy Quality
@@ -40,3 +40,4 @@
 <br>
 🔹 Rs:499/-
 <br>
+<a herf='https://wa.me/916238768108?text=ENOVA🤍+CASIO+GSHOCK+0001' target="_blank"><img alt='watch' src='https://img.shields.io/badge/-ADD_TO_CART-yellow?style=for-the-badge&logo=addkart&logoColor=white'/></a>
