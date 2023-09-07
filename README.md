@@ -30,7 +30,7 @@
 <h3>RF.CODE : R0001</h3>
 <br>
 <img src="./Media/products/casiog.png" align="center" width="250" height="300" />
-
+<h3>
 <br>
 🔹Heavy Quality
 <br>
@@ -41,11 +41,34 @@
 🔹Cod Not Available
 <br>
 🔹 Rs:499/-
-<br>
+<br></h3>
 <p></p>
 <br>
 <p >* 💙click add to cart for more deatils</p>
 <a href='https://wa.me/916238768108?text=🤍ENOVA+ADD+CART+R0001' target="_blank"><img alt='AMEEN' src='https://img.shields.io/badge/-ADD_TO_CART-yellow?style=for-the-badge&logo=flipkart&logoColor=white'/></a>
+
+<br>
+<hr>
+<h2>T800 ULTRA WATCH</h2>
+<h3>RF.CODE : R0002</h3>
+<br>
+<img src="./Media/products/T800.png" align="center" width="250" height="300" />
+
+<br><h3>
+🔹HIGH QUALITY
+<br>
+🔹3-4 Days Delivery Time
+<br>
+🔹Prepaid 
+<br>
+🔹Cod Not Available
+<br>
+🔹 Rs:899/-
+<br></h3>
+<p></p>
+<br>
+<p >* 💙click add to cart for more deatils</p>
+<a href='https://wa.me/916238768108?text=🤍ENOVA+ADD+CART+R0002' target="_blank"><img alt='AMEEN' src='https://img.shields.io/badge/-ADD_TO_CART-yellow?style=for-the-badge&logo=flipkart&logoColor=white'/></a>
 
 <br>
 <hr>
