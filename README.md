@@ -77,7 +77,7 @@ Orange 🧡(Space Grey Aluminium Case)
 
 *App name : Fit Pro*
 
-𝐒𝐩𝐞𝐜𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 : -
+# Deatils : -
 
 ✔️ T800 Ultra 
 
@@ -123,12 +123,12 @@ Orange 🧡(Space Grey Aluminium Case)
 <h2>AIR PODS🪄</h2>
 <h3>RF.CODE : R00A3</h3>
 <br>
-<img src="./Media/products/AIRPOD1.png" align="center" width="250" height="300" />
-<img src="./Media/products/AIRPOD3.png" align="center" width="250" height="300" />
-<img src="./Media/products/AIRPOD2.png" align="center" width="250" height="300" />
+<img src="./AIRPOD1.png" align="center" width="250" height="300" />
+<img src="./AIRPOD3.png" align="center" width="250" height="300" />
+<img src="./AIRPOD2.png" align="center" width="250" height="300" />
 <h3>
 <br>
-🔹High Quality
+🔹Base Quality
 <br>
 🔹3-4 Days Delivery Time
 <br>
