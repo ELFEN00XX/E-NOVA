@@ -16,11 +16,11 @@
 
 #### For Help To Visit Whatsapp
 
-<a href='https://wa.me/916238768108?text=ENOVA_STORE_WANT_HELP🌠' target="_blank"><img alt='AMEEN' src='https://img.shields.io/badge/-AMEEN_ENOVA-green?style=for-the-badge&logo=whatsapp&logoColor=white'/></a>
+<a href='https://wa.me/916238768108?text=🪄ENOVA+STORE+WANT+HELP❤️' target="_blank"><img alt='AMEEN' src='https://img.shields.io/badge/-AMEEN_ENOVA-green?style=for-the-badge&logo=whatsapp&logoColor=white'/></a>
 <br>
-<a href='https://wa.me/917902698504?text=ENOVA_STORE_WANT_HELP🌠' target="_blank"><img alt='BATHU' src='https://img.shields.io/badge/-BATHU_ENOVA-green?style=for-the-badge&logo=whatsapp&logoColor=white'/></a>
+<a href='https://wa.me/917902698504?text=🪄ENOVA+STORE+WANT+HELP❤️' target="_blank"><img alt='BATHU' src='https://img.shields.io/badge/-BATHU_ENOVA-green?style=for-the-badge&logo=whatsapp&logoColor=white'/></a>
 <br>
-<a href='https://wa.me/919544067908?text=ENOVA_STORE_WANT_HELP🌠' target="_blank"><img alt='JAMSHI' src='https://img.shields.io/badge/-JAMSHI_ENOVA-green?style=for-the-badge&logo=whatsapp&logoColor=white'/></a>
+<a href='https://wa.me/919544067908?text=🪄ENOVA+STORE+WANT+HELP❤️' target="_blank"><img alt='JAMSHI' src='https://img.shields.io/badge/-JAMSHI_ENOVA-green?style=for-the-badge&logo=whatsapp&logoColor=white'/></a>
 <br>
 #### =====================
 
@@ -136,7 +136,7 @@ Orange 🧡(Space Grey Aluminium Case)
 <br>
 🔹Cod Not Available
 <br>
-🔹 Rs:799/-
+🔹 Rs:699/-
 <br></h3>
 <p></p>
 <br>
