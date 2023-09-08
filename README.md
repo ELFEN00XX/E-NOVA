@@ -118,3 +118,31 @@ Orange 🧡(Space Grey Aluminium Case)
 
 <br>
 <hr>
+<h1>GADGETS</h1>
+
+<h2>AIR PODS🪄</h2>
+<h3>RF.CODE : R00A3</h3>
+<br>
+<img src="./Media/products/AIRPOD1.png" align="center" width="250" height="300" />
+<img src="./Media/products/AIRPOD3.png" align="center" width="250" height="300" />
+<img src="./Media/products/AIRPOD2.png" align="center" width="250" height="300" />
+<h3>
+<br>
+🔹High Quality
+<br>
+🔹3-4 Days Delivery Time
+<br>
+🔹Prepaid 
+<br>
+🔹Cod Not Available
+<br>
+🔹 Rs:799/-
+<br></h3>
+<p></p>
+<br>
+<p >* 💙click add to cart for more deatils</p>
+<a href='https://wa.me/916238768108?text=🤍ENOVA+ADD+CART+R00A3' target="_blank"><img alt='AMEEN' src='https://img.shields.io/badge/-ADD_TO_CART-yellow?style=for-the-badge&logo=flipkart&logoColor=white'/></a>
+
+<br>
+<hr>
+
